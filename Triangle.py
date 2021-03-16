@@ -1,2 +1,2 @@
-def Triangle(Height, Base)
-  return (Base * Height) /2
+def Area(x, h)
+  return (x * h) /2
